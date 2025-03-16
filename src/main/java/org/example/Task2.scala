@@ -1,7 +1,6 @@
 package org.example
 
 import org.apache.spark.sql.{SparkSession, functions => F}
-import org.example.CommonUtils
 
 object Task2 {
   def main(args: Array[String]): Unit = {
